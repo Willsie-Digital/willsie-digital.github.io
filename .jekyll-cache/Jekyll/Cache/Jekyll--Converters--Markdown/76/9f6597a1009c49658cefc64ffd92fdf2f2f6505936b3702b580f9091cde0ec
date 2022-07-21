@@ -1,0 +1,184 @@
+I"�<h2 id="minimal--responsive-design">Minimal &amp; Responsive Design</h2>
+
+<p>Based upon a solid grid and designed with <strong>simplicity and focus on typography</strong> in mind, the entire design follows a clean and minimal design philosphy which is easy on the eyes and doesn’t distract from the most important feature of every website: <em>the content</em>.</p>
+
+<p><em>Clear shapes, sharp edges and flat shades</em> create a contemporary and pleasant overall appearance.</p>
+
+<p>A responsive design concept applied to every aspect of the theme ensures that it adapts seamlessly to a wide variety of devices and screen resolutions.</p>
+
+<h3 id="subtile-animations">Subtile Animations</h3>
+
+<p>Smooth and particularly <em>barely noticable animations reveal contents in a beautiful way</em> while scrolling down the page. A feature which is not necessarily required for obvious reasons, but it surely improves the experience a little further.</p>
+
+<h3 id="retina-ready">Retina Ready</h3>
+
+<p>In order to make sure <em>everything looks crisp on high resolution displays</em> as well, all images used by the theme itself are <strong>scalable vector graphics (SVG)</strong>.</p>
+
+<p>They may be small in terms of file sizes but can be scaled indefinitely so your website will be able to take advantage of the beauty of those retina displays entirely.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/feature-retina.jpg" alt="SVG's in Sketch 3" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>SVG's in Sketch 3</h4>
+		  
+
+		  
+		  	<p>Scalable vector graphics created in Sketch 3 look sharp and crisp on any device and the layered Sketch source file is included too</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="decent-parallax-scrolling">Decent Parallax Scrolling</h3>
+
+<p>Almost invisible at first sight, parallax scrolling applied to big image headers makes them move at a different speed and thus creates an <strong>impression of depth</strong> — tiny details essential for a truly polished look and feel.</p>
+
+<h3 id="estimated-reading-duration">Estimated Reading Duration</h3>
+
+<p>It’s nice to know how long it will take to read a post upfront. Because of that, there’s an indicator on top of every post which provides an estimate.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/feature-estimate-duration.jpg" alt="Duration" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Duration</h4>
+		  
+
+		  
+		  	<p>Estimates are based upon the posts length and calculated automatically</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="clean-valid-html5--css3">Clean, Valid HTML5 &amp; CSS3</h3>
+
+<p>Clean, optimized, validated &amp; handwritten source code can be taken for granted. <strong>Quality code is just as important as good design</strong> and there’s no room for compromises.</p>
+
+<p>In addition to that, the entire theme has been carefully tested to achieve best possible <strong>crossbrowser compatibility</strong> and meet highest requirements and so it works just fine in Internet Explorer 9+, Firefox 4+, Safari 5+, Chrome 14+, Opera 10.6+ as well as on iOS 4+ and Android devices.</p>
+
+<h3 id="author-bio--social-sharing">Author Bio &amp; Social Sharing</h3>
+
+<p>Optionally add an author bio, social media profile links or dynamically generated sharing buttons to each page via front-matters or leave them out entirely — <em>it’s really up to you</em>.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/feature-author-share.jpg" alt="Author &amp; Sharing" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Author &amp; Sharing</h4>
+		  
+
+		  
+		  	<p>Adding additional information to each post is remarkably easy</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="media-shortcodes">Media Shortcodes</h3>
+
+<p>Adding images, videos from <a href="http://youtube.com">YouTube</a> / <a href="http://vimeo.com">Vimeo</a> or music from <a href="http://soundcloud.com">Soundcloud</a> is remarkably simple with <strong>shortcodes you can use literally anywhere</strong>. Even better, they also support custom captions and adapt to smaller resolutions seamlessly.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/feature-media-shortcodes.jpg" alt="Shortcodes" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Shortcodes</h4>
+		  
+
+		  
+		  	<p>Add the shortcode and url, optionally a few details and you're good to go</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="disqus-comments">Disqus Comments</h3>
+
+<p>A third-party <strong>comment system powered by Disqus</strong> comes with the theme — just add your username to the config file and you’re ready to let the comments roll in.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/feature-comments.jpg" alt="Comments" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Comments</h4>
+		  
+
+		  
+		  	<p>Comments are powered by Disqus — just sign up, add your username to the _config file</p>
+		  
+
+		  
+		  	<a href="http://disqus.com" title="Visit Website" class="icon image">Visit Website</a>
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="syntax-highlighting">Syntax Highlighting</h3>
+
+<p>Embedding pieces of code every now and then is essential. Fortunately <em>Hashtag for Jekyll</em> supports syntax highlighting by default.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<h3 id="much-more">Much More</h3>
+
+<p>Those features above are just the tip of the iceberg and there’s much more included.</p>
+
+<p>Things like support for <strong>Google Analytics &amp; Web Fonts</strong>, advanced <strong>pagination</strong> on overview pages, a custom <strong>teaser of the next article</strong> at the bottom of each post, <strong>Twitter Cards &amp; Facebook Open Graph</strong> tags dynamically generated, multiple page types, etc.</p>
+
+<p><strong>Hope you like it!</strong></p>
+:ET

@@ -1,0 +1,126 @@
+I"�<p><em>First things first:</em> You can use the following shortcodes on <strong>every page</strong> and in <strong>every post</strong> as often as you like directly in between of your written contents.</p>
+
+<p>They are most likely the <em>easiest way to enrich your contents</em> with suitable media, you can add <strong>captions</strong>, <strong>descriptions</strong> and <strong>links</strong> to them and they also <em>seamlessly adapt to the screen size of your visitors</em> to avoid breaking the look and feel.</p>
+
+<p>Below I’ll just add a few images, videos and audio files for reference purposes and will try to describe how it works.</p>
+
+<h3 id="images">Images</h3>
+
+<p>Let’s begin with an <strong>image</strong> which has been already added to the <code class="language-plaintext highlighter-rouge">images</code> folder inside the theme directory which is mandatory for this type of media by the way.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/shortcode-image.jpg" alt="Shorcode Preview" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Shorcode Preview</h4>
+		  
+
+		  
+		  	<p>This is how each of the shortcodes look like — the ideal image width should be at least 796px by the way</p>
+		  
+
+		  
+		  	<a href="http://themeforest.net/user/indiqo" title="Visit Website" class="icon image">Visit Website</a>
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="youtube-videos">YouTube videos</h3>
+
+<p>Next up, a <strong>video on YouTube</strong> — I really like Jack Johnson’s music and listened to it pretty much all of the time while working on this theme, so why not share a video with you.</p>
+
+<div class="media youtube" data-animation="fadeInUp">
+
+	
+		<iframe src="http://www.youtube.com/embed/PeFJlk8eOhQ" allowfullscreen=""></iframe>
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>You And Your Heart</h4>
+		  
+
+		  
+		  	<p>Just add the video url and the shortcode will do everything else for you</p>
+		  
+
+		  
+		  	<a href="http://jackjohnsonmusic.com" title="Visit Website" class="icon video">Visit Website</a>
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="vimeo-videos">Vimeo videos</h3>
+
+<p>Of course it’s also possible to do just the same with <strong>Vimeo videos</strong>.</p>
+
+<div class="media vimeo" data-animation="fadeInUp">
+
+	
+		<iframe src="http://player.vimeo.com/video/20344943?title=0&amp;byline=0&amp;portrait=0&amp;color=eb2344" allowfullscreen=""></iframe>
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Love Snowboarding</h4>
+		  
+
+		  
+		  	<p>All contents automatically adjust their size depending on the visitors screen resolution</p>
+		  
+
+		  
+		  	<a href="http://protectourwinters.org" title="Visit Website" class="icon video">Visit Website</a>
+		  
+
+		</div>
+	
+
+</div>
+
+<h3 id="soundcloud-music">Soundcloud music</h3>
+
+<p>Adding <strong>music from Soundcloud</strong> is that easy too.</p>
+
+<div class="media audio" data-animation="fadeInUp">
+
+	
+		<iframe src="https://w.soundcloud.com/player/?url=https://soundcloud.com/avicii-tomorrowland-2013/avicii-live-at-tomorrowland-2013&amp;color=eb2344&amp;auto_play=false&amp;hide_related=true&amp;show_artwork=true" allowfullscreen=""></iframe>
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Great Sound</h4>
+		  
+
+		  
+		  	<p>Quite convenient.. for a static site generator.</p>
+		  
+
+		  
+		  	<a href="http://www.tomorrowland.com" title="Visit Website" class="icon audio">Visit Website</a>
+		  
+
+		</div>
+	
+
+</div>
+:ET

@@ -1,0 +1,48 @@
+I"3<h2 id="advanced-optional-front-matter">Advanced, optional front-matter</h2>
+
+<p>You already know how to <em>create posts and pages</em> and <em>what front-matter means</em>. But did you also know that front-matter is a <strong>seriously powerful way to control contents and appearance</strong> of each page?</p>
+
+<p>Meet the advanced, optional front-matter you can add to the top of each post or page.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/advanced-front-matter.jpg" alt="Advanced front-matter" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Advanced front-matter</h4>
+		  
+
+		  
+		  	<p>This is the front-matter of the page you're currently viewing</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<p>Below you’ll see a <em>detailed description of each of these options</em>, what they do and how you can use them in order to control many aspects of the page easily — I’ll skip <code class="language-plaintext highlighter-rouge">layout</code>, <code class="language-plaintext highlighter-rouge">title</code> and <code class="language-plaintext highlighter-rouge">type</code> though.</p>
+
+<ul>
+  <li><strong>navigation:</strong> Can be either <code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code> and controls wether the post or page appears in the navigation or not. This just works if <code class="language-plaintext highlighter-rouge">type</code> is either set to <code class="language-plaintext highlighter-rouge">post</code> or <code class="language-plaintext highlighter-rouge">page</code>.</li>
+  <li><strong>date:</strong> It’s a good practice to set the date within each file as well even though it’s not required. The order of all posts and pages added to the navigation depends on their date too.</li>
+  <li><strong>excerpt:</strong> A <strong>quick summary</strong> which shows up on top of each page as well as on the homepage listing.</li>
+  <li><strong>categories:</strong> Add one or more <code class="language-plaintext highlighter-rouge">categories</code> for each page or post — they’re part of the excerpt and influence the way Jekyll builds the sites hierarchy.</li>
+  <li><strong>gradient:</strong> Specify a number between 1 and 5 to define the <strong>color of the gradient</strong> applied to the header of the post or page.</li>
+  <li><strong>image:</strong> Add an image to the <code class="language-plaintext highlighter-rouge">images</code> folder and add its file name here so it shows up on top of the page. The <strong>perfect size would be 1200 x 700px</strong> but everything should work just fine considering that it will be scaled accordingly anyway.</li>
+  <li><strong>details:</strong> Can be either <code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code> and specifies wether the header image selected for this page will show up in the homepage listing as well.</li>
+  <li><strong>author:</strong> Feel free to add the name of the posts or pages author.</li>
+  <li><strong>bio:</strong> A short description or bio can be appended too.</li>
+</ul>
+
+<p>The remaining front-matter should be self-explanatory in my opinion and you’re able to <em>attach various social media profile links</em> to the authors profile.</p>
+
+<p>Please keep in mind though that <strong>links usually include colons and these are reserved by YAML</strong>. That said, make sure that you wrap links (and literally anything else which might include colons) into quotes so they don’t break it.</p>
+:ET

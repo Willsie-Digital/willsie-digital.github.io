@@ -1,0 +1,66 @@
+I"�<h2 id="posts">Posts</h2>
+
+<p>In order to add a new post to your site, just create a new file within the <code class="language-plaintext highlighter-rouge">_posts</code> directory with a suitable file extension, by default that should be <code class="language-plaintext highlighter-rouge">.md</code> or <code class="language-plaintext highlighter-rouge">.markdown</code>.</p>
+
+<p>Naming conventions are important and so you should make sure to give it a file name with a structure like <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-my-first-post.md</code>, similar to the example posts you can already tinker with.</p>
+
+<p>Jekyll will order your articles by the date included in the file name, so it’s required that you choose a file name which follows this convention exactly.</p>
+
+<h3 id="front-matter">Front-matter</h3>
+
+<p>Each file which shall be processed by Jekyll needs to start with so called <strong>front-matter</strong> which provides some kind of configuration to the processor, so it will be able to render each page properly.</p>
+
+<p>Essentially, front-matter is written in <strong>YAML</strong> and <strong>starts and ends with three dashes</strong> followed by the posts content itself.</p>
+
+<div class="media image" data-animation="fadeInUp">
+
+	
+		<img src="/images/basic-front-matter.jpg" alt="Basic front-matter" />
+	
+
+	
+		<div class="caption" data-animation="fadeInUp">
+		  
+		  
+		  	<h4>Basic front-matter</h4>
+		  
+
+		  
+		  	<p>Example of basic front-matter required by each post and page — everything else is optional</p>
+		  
+
+		  
+
+		</div>
+	
+
+</div>
+
+<ul>
+  <li><strong>layout:</strong> The layout will be always <code class="language-plaintext highlighter-rouge">default</code> so don’t think about it too much and feel free to copy and paste it into the front-matter area of each post.</li>
+  <li><strong>title:</strong> The title will be <strong>what you can see on top of each page</strong> as well as in the overview on the homepage.</li>
+  <li><strong>type:</strong> The type defines the <strong>format of each page</strong> — you can choose between <code class="language-plaintext highlighter-rouge">post</code>, <code class="language-plaintext highlighter-rouge">page</code> or <code class="language-plaintext highlighter-rouge">home</code>, but we’ll use <code class="language-plaintext highlighter-rouge">post</code> for now.</li>
+</ul>
+
+<p>Please feel free to <strong>have a look at the existing posts and pages</strong> shipped with this theme in order to get an idea how it works.</p>
+
+<p>Now that the configuration has been done, just <strong>write some Markdown</strong> below the second line of dashes, <strong>hit save</strong>, <strong>open up your terminal or console</strong> again and enter <code class="language-plaintext highlighter-rouge">jekyll build</code> once again to generate the output.</p>
+
+<h3 id="useful-hint">Useful hint</h3>
+
+<p>Nobody likes to enter the <code class="language-plaintext highlighter-rouge">jekyll build</code> command manually all of the time. In fact, <code class="language-plaintext highlighter-rouge">jekyll build</code> is just the most basic command it offers and let me say it as it is, it’s definitely not the most convenient solution.</p>
+
+<p>For example, there’s an option which watches your folder for changes and automatically builds the new site for you immediately. Once again, please have a closer look at the <a href="http://jekyllrb.com/docs/usage/">Jekyll documentation</a> for further details.</p>
+
+<h2 id="pages">Pages</h2>
+
+<p>In general, <em>pages work more or less just like posts</em> — in fact, they even share the same front-matter.</p>
+
+<p>The only difference might be the layout, because pages usually don’t have next or previous pages and so <strong>there’s no teaser at the bottom</strong> obviously and <strong>comments are just available for posts</strong>, but aside from that, they’re pretty much identical.</p>
+
+<p>In order to create a page instead of a post, please <em>create a new file in the root of this theme</em> and add a file extension such as <code class="language-plaintext highlighter-rouge">.html</code>, <code class="language-plaintext highlighter-rouge">.md</code> or <code class="language-plaintext highlighter-rouge">.markdown</code>, depending on your own preference.</p>
+
+<p>Considering that it’s a static page and not a sequence of posts, <strong>we don’t need a date</strong> in its file name anymore and so it could look like this for example: <code class="language-plaintext highlighter-rouge">my-first-page.md</code></p>
+
+<p>Add just the same front-matter, but instead of setting <code class="language-plaintext highlighter-rouge">type</code> to <code class="language-plaintext highlighter-rouge">post</code>, it should be <code class="language-plaintext highlighter-rouge">page</code> this time. <em>Rebuild the site once again</em> via <code class="language-plaintext highlighter-rouge">jekyll build</code> or a more advanced command and that’s it already!</p>
+:ET

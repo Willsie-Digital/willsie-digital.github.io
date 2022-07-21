@@ -1,0 +1,29 @@
+---
+
+layout:     default
+title:      Willsie Digital
+type:       home
+navigation: true
+
+date:       2014-05-08
+image:      jezael-melgoza-cv3T6MG36DE-unsplash.jpg
+excerpt:    Let's face it, there are literally <i>millions of ways to create and manage a website or blog</i> these days and all of them got dark and bright sides. <b>Jekyll</b> is yet another, albeit incredible way to do so and <b>Hashtag for Jekyll</b> adds a sweet little face to it so your site doesn't turn into <b>Mr. Hyde</b>. <a href="/about.html" title="Continue" class="more">Continue</a>
+gradient:   5
+
+motd: THIS MESSAGE CONTAINS NO AI* 
+---
+
+<div class="summary">
+
+  <p>Welcome to Willsie Digital, a small slice of the mad mind of <em>Todd Willsie</em>. Here you will find written opinion pieces about technology, DevSecOps, design, and video game streaming along with news updates on the many projects that he is working on.</p>
+
+</div>
+
+<h1>Latest Writings</h1>
+<p>&nbsp</p>
+
+{% for post in paginator.posts %}
+
+  {% include summary.html %}
+  
+{% endfor %}
