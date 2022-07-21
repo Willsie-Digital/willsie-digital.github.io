@@ -21,4 +21,4 @@ copyright: 		Copyright 2022 Willsie.
 # Build Settings
 permalinks: 	pretty
 
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-time-to-read]
