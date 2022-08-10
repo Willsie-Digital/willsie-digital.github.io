@@ -33,7 +33,7 @@ paginate_path: 	"blog/page:num"
 
 twitter: t_willc
 
-disqus: your_disqus_shortname
+disqus: willsie
 analytics: UA-XXXXXXX-Y
 
 copyright: Copyright 2022 Willsie
