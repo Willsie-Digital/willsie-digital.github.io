@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willsie</title>
+    <description>Welcome to Willsie Digital, a small slice of the mad mind of Todd Willsie.  Here you will find written opinion pieces about technology, DevSecOps, design, and  video game streaming along with news updates on the many projects that he is working on.</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Goodbye Twitter</title>
+        <description>&lt;p&gt;I can’t say that I was the biggest twitter fan, but I had more followers than people I was following, which to me is a small measure of success. But alas I just cannot stand what Elon Musk has been doing with the platform and so I must let it go and walk away.&lt;/p&gt;
+
+&lt;p&gt;Twitter has always been a fun little social media project for me. I was literally a nobody on that platform until one day I bought Adriana Lagrange’s domain name (she let it expire) and built a website pointing out how bad of an Education Minister for Alberta that she was (and as of this writing, still is). It was a platform that made it easy to get the latest news and updates around the world and have meaningful discussions.&lt;/p&gt;
+
+&lt;p&gt;Now Elon Musk has gone and broken the trust and safety of twitter. Laying off hundreds of staff, while posting memes about the situation. Publicly firing his staff that criticizes his tweets. Suspending comedians who parody him. Reinstating accounts that have previously violated Twitter’s terms and conditions. The actions are that of a completely unhinged person with a superiority complex and with absolutely no concern for the existing users of Twitter.&lt;/p&gt;
+
+&lt;p&gt;There is news going around that Twitter might eventually crash, but why wait? I hate it in the state it’s in now. And if it survives the month, then it will continue to be a growing cesspool of toxic harassment. User’s can’t change Twitter when the toxicity is coming from the top, so the only power we have over Twitter is to stay plugged in and be another measurable unit to be advertised to, and a metric that Elon Musk uses to make money, or we have the power to archive our tweets and delete our accounts.&lt;/p&gt;
+
+&lt;p&gt;So I will be deleting my twitter account. Because I don’t feel that Twitter is a safe place anymore. Because I don’t support Elon Musk’s immature behaivior. And if you are reading this and you are just as dissapointed with Twitter as I am, then I encourage you to do the same. Go switch to Mastodon, Reddit, Tumblr, or any of the many other social media sites out there and show Elon Musk that his behaivior isn’t worthy of your attention.&lt;/p&gt;
+
+&lt;p&gt;Or don’t. It’s a free world and you certainly don’t need someone like me telling you what to do.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+        <link>/tech/2022/11/20/goodbye-twitter.html</link>
+        <guid isPermaLink="true">/tech/2022/11/20/goodbye-twitter.html</guid>
+      </item>
+    
+      <item>
+        <title>I Found the Best Tech to Travel With</title>
+        <description>&lt;p&gt;I didn’t just stumble on the best tech to travel with overnight. No, I had to pack way too much gear multiple times for years before I found the right tech that fit my needs. And much of that period, the technology we have today didn’t exist. Now I’m not saying that what’s worked fabulous for me is what you need, but if you’re a developer, video gamer, and content creator, then what I take travelling might help you on your next journey.&lt;/p&gt;
+
+&lt;p&gt;Before diving into the technology I use travelling, I want to take a quick moment to pay my respects to what I used to take when I travel. When I bought my MacBook, I was sold on how light it was, but after packing all the extra gear I needed to enjoy my trip in ‘technological comfort,’ my bag was tearing at the seams to get unpacked. And what was all that extra gear? It was typical for me to pack my iPad, XBOX Controller, iPhone, a battery pack, three charger cubes, two lightning cables, micro USB cable, headphones, and gaming mouse on top of my MacBook and its cables.&lt;/p&gt;
+
+&lt;p&gt;Why was all of that equipment necessary? The iPad was for movies and tv shows on flights and personal emails. The MacBook was for writing code, using adobe apps and playing video games (look, I know. Macs aren’t for gamers. But stop being butthurt and deal with it). The XBOX controller, because you can’t play Street Fighter with a keyboard. Gaming mouse, because you can’t use a Magic Mouse while charging (looking at you, Apple).&lt;/p&gt;
+
+&lt;p&gt;That was five years ago, and technological changes have significantly impacted my travel. Even if they haven’t impacted Magic Mouse’s ability to be useful while charging (I’m still looking at you, Apple)&lt;/p&gt;
+
+&lt;p&gt;Here is the technology I pack when I travel and why I pack it.&lt;/p&gt;
+&lt;h2 id=&quot;sony-srs-xb33&quot;&gt;Sony SRS-XB33&lt;/h2&gt;
+&lt;p&gt;I never used to pack a speaker, but the Sony SRS-XB33 is a gem. It sounds great when I’m watching movies or listening to music. But what makes it worth travelling with me is that it’s waterproof and doubles as a power bank. It gets used outside, on beaches, and at night to play bedtime stories from my iPhone for my son.&lt;/p&gt;
+&lt;h2 id=&quot;apple-ipad&quot;&gt;Apple iPad&lt;/h2&gt;
+&lt;p&gt;The iPad has come a long way in the past five years. iOS 13 brought in mouse support and Xbox controller support. iOS 14 improved those features by allowing relative mouse movement, which you need for first-person shooters. And support for smart keyboards and touchpads beginning with the iPad 7th generation. My iPad is now my primary driver when travelling. With Adobe Photoshop, Illustrator and Fresco having native iOS apps and the Moonlight app, which allows me to remote into my PC at home, I no longer have to pack a MacBook. I have successfully used my iPad to create custom artwork, designs, and apparel during my downtime on vacation.&lt;/p&gt;
+&lt;h2 id=&quot;apple-pencil&quot;&gt;Apple Pencil&lt;/h2&gt;
+&lt;p&gt;I always wanted to pack my Wacom tablet when I travelled and always stopped short of doing that because the idea was absolute lunacy. The Apple Pencil effectively turns my iPad into a Wacom tablet. So yea, I pack it. I know it’s not necessary, but it sure is convenient.&lt;/p&gt;
+&lt;h2 id=&quot;xbox-one-controller&quot;&gt;Xbox One Controller&lt;/h2&gt;
+&lt;p&gt;It works on the iPad, including the thumbstick buttons and rumble. Most of the Apple Arcade games support it perfectly. Then when you include Xbox Cloud Gaming and Moonlight remote gaming. Suddenly the iPad is a full-fledged AAA console. You could use a DualShock controller, but not all games will show the buttons during tutorials, which takes away from the “It just works” feeling one expects from the Apple ecosystem.&lt;/p&gt;
+&lt;h2 id=&quot;logitech-combo-touch&quot;&gt;Logitech Combo Touch&lt;/h2&gt;
+&lt;p&gt;Contrary to what Apple suggests in its marketing, every iPad needs a case. Apple’s Magic Keyboard and trackpad work only on Pro models, and its cost is way too much. And if you try and get a Smart Keyboard for a regular iPad, it lacks the trackpad. Logitech thankfully has a solution, a case, smart keyboard and trackpad that holds the Apple Pencil (1st Gen) or their own Logitech Crayon, called the Combo Touch. It’s also cheaper and has backlit keys, which is fantastic for late-night coding or gaming.&lt;/p&gt;
+&lt;h2 id=&quot;razer-basilisk-x-hyperspeed-gaming-mouse&quot;&gt;Razer Basilisk X Hyperspeed Gaming Mouse&lt;/h2&gt;
+&lt;p&gt;I’m not typically a fan of Razer products. I usually find them to be overpriced, cheap-feeling, and not very reliable. But the Razer Basilisk X Hyperspeed is a little different. It’s ‘actually’ cheap, and its design is a near rip-off of Logitech’s G502 mouse, which is one of my favourite gaming mice. It makes it onto my list because it has Bluetooth and 2.4Ghz support, which makes switching between the iPad and my work computer as quick as a switch. And at $40, I won’t be upset if it gets lost, damaged or stolen.&lt;/p&gt;
+&lt;h2 id=&quot;anker-powercore-iii-sense-10k-wireless-power-bank&quot;&gt;Anker PowerCore III Sense 10K Wireless Power Bank&lt;/h2&gt;
+&lt;p&gt;Power Banks are the best thing since sliced bread. But, the Anker PowerCore III Sense 10K Wireless power bank takes power banks to a new level. It can be charged and charge other devices from its single USB-C port. And it has built-in QI wireless charging so I can pack fewer cables. Reducing the number of cables I take travelling is a big deal, as they often go missing or get left behind because there are too many to keep track.&lt;/p&gt;
+&lt;h2 id=&quot;insignia-45w-usb-c-wall-charger&quot;&gt;Insignia 45W USB-C Wall Charger&lt;/h2&gt;
+&lt;p&gt;It’s a wall charger. It uses USB-C. It has 45 watts of power delivery. That 45 Watts makes it one of the fastest chargers available, assuming your devices support its charging speed. It’s on this list because, once again, it reduces the number of cables I have to take travelling.&lt;/p&gt;
+
+&lt;p&gt;Travelling with all this stuff might seem a bit much. But it works well for me. The best part of this whole travel setup is that I’m also beginning to use it at home regularly. I used to sit in front of my studio computer and waste hours of my life there. And now I’m sitting with my son at the breakfast table while building this website. And by building, I mean coding, designing, and writing the content, all with what I would typically take travelling.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+        <link>/tech/2022/07/14/i-found-the-best-tech-to-travel-with.html</link>
+        <guid isPermaLink="true">/tech/2022/07/14/i-found-the-best-tech-to-travel-with.html</guid>
+      </item>
+    
+  </channel>
+</rss>
