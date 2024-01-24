@@ -29,3 +29,6 @@ There is news going around that Twitter might eventually crash, but why wait? I 
 So I will be deleting my twitter account. Because I don't feel that Twitter is a safe place anymore. Because I don't support Elon Musk's immature behaivior. And if you are reading this and you are just as dissapointed with Twitter as I am, then I encourage you to do the same. Go switch to Mastodon, Reddit, Tumblr, or any of the many other social media sites out there and show Elon Musk that his behaivior isn't worthy of your attention.
 
 Or don't. It's a free world and you certainly don't need someone like me telling you what to do.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNTk0MjI5NjFdfQ==
+-->
